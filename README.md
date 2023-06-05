@@ -4,7 +4,7 @@
 bash train.sh
 
 # eval
-Download Weights: 
+Download Weights: https://drive.google.com/file/d/1TSPFVTHohXoTBJDVynyQ8FAc0Xt6tkfj/view?usp=sharing
 
 Put Weights to ./weights
 
